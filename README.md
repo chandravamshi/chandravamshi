@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandra Vamshi Dasyam</h1>
-<h3 align="center">Fullstack Developer based in Germany</h3>
+<h3 align="center">FullStack Developer based in Germany</h3>
 
 <h2 align="left">Skills</h2>
 <p align="left"> 
