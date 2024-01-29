@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandra Vamshi Dasyam</h1>
 <h3 align="center">FullStack Developer based in Germany</h3>
-<h3 align="center">I am still building this readme page in case if you are recutier,  letting you know that it is under work and so you will not have negative about this</h3>
+<h3 align="center">I am still building this readme page in case if you are recutier,  letting you know that it is under work and so you will not have negative impression about this</h3>
 <h2 align="left">Skills</h2>
 <p align="left"> 
 <h3 >Languages:</h3>
