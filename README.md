@@ -41,14 +41,7 @@ I'm on a quest for the next challenge, the next solution, the next big thing. Go
 
 - 📩 **Reach Out**: [Drop me a line](mailto:dasyamchandravamshi@gmail.com)
 
----
 
-This README profile is not just a summary of skills and experiences but a canvas that reflects your professional identity. It invites the viewer on a journey, showcases your evolution, and leaves a memorable impression with its visual and narrative elements. Feel free to adjust the content and layout to better reflect your personality and professional trajectory.
-
-
-
-
-- 📫 How to reach me  dasyamchandravamshi@gmail.com
 
 <h2 align="left">Skills</h2>
 <p align="left"> 
