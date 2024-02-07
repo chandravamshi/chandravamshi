@@ -35,16 +35,11 @@ Here's a glimpse into my portfolio, showcasing projects where creativity meets f
 - **Interactive Web Platform** [React, Redux]: A dynamic web application enhancing user engagement through intuitive design and responsive architecture.
 - **Cross-Platform Mobile App** [Flutter]: A seamless mobile experience, delivering consistency across devices with a single codebase.
 
-## 📈 Stats & Streaks
-
-![Chandra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandravamshi&show_icons=true&theme=radical)
-
 ## 💡 Let's Innovate Together
 
 I'm on a quest for the next challenge, the next solution, the next big thing. Got an idea? I'd love to hear it. Let's turn the impossible into the inevitable. Together, we can build the future.
 
 - 📩 **Reach Out**: [Drop me a line](mailto:dasyamchandravamshi@gmail.com)
-- 🔗 **LinkedIn**: [Let's connect](https://www.linkedin.com/in/chandravamshi/)
 
 ---
 
