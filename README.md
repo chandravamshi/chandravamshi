@@ -2,7 +2,8 @@
 <h3 align="center">FullStack Developer based in Germany</h3>
 <h3 align="center">I am still building this readme page in case if you are recutier,  letting you know that it is under work and so you will not have negative impression about this</h3>
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **dasyamchandravamshi@gmail.com**
+
+- 📫 How to reach me  dasyamchandravamshi@gmail.com
 
 <h2 align="left">Skills</h2>
 <p align="left"> 
@@ -20,9 +21,7 @@
  <p align="left"> 
 <h3 >Frameworks/Libraries:</h3>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
-  
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
  </p>
 
  <p align="left"> 
@@ -49,8 +48,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandravamshi&label=Profile%20views&color=0e75b6&style=flat" alt="chandravamshi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandravamshi" alt="chandravamshi" /></a> 
-</p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandravamshi" alt="chandravamshi" /></a> 
+</p> -->
 
 
 
@@ -59,6 +58,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandravamshi&show_icons=true&locale=en&layout=compact" alt="chandravamshi" /></p>
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandravamshi&show_icons=true&locale=en" alt="chandravamshi" /></p>
-
+ -->
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandravamshi&" alt="chandravamshi" /></p>
+ -->
