@@ -23,7 +23,7 @@ graph LR;
 - **Professional Evolution**: From trainee to full-stack expert, my path reflects a relentless pursuit of growth and excellence.
 
 ## 🌟 What Makes Me Unique and Why I Stand Out
-- **Skills**: [Skills](#skills)
+- [**Skills**](#skills)
 - **Tech Agnostic**: Fluent in multiple languages (Node.js, TypeScript, PHP) and frameworks (Angular, React, Flutter), always picking the best tool for the job.
 - **DevOps Enthusiast**: Skilled in Docker, Kubernetes, and AWS, ensuring smooth, scalable deployments.
 - **Agile Advocate**: Agile not just in development methodology but as a mindset, adapting quickly to change and focusing on continuous improvement.
