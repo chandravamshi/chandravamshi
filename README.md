@@ -2,6 +2,14 @@
 <h3 align="center">FullStack Developer based in Germany</h3>
 
 
+- 👀 I’m interested in FullStack development.
+- 🌱 I’m currently learning Kubernetes, AWS
+-  I'm looking for the *Jobs* in field of FullStack (FrontEnd, BackEnd, DevOPs)
+- 💞️ I’m looking to collaborate on projects. 
+- 📫 How to reach me dasyamchandravamshi@gmail.com
+-  [**Skills**](#skills)
+
+
 # 👨‍💻 Chandra Vamshi: Crafting the Future, One Line of Code at a Time
 
 Welcome to my digital playground! 🌟 I'm Chandra, a Berlin-based Full Stack Developer with a penchant for transforming ideas into digital realities. With over 5 years of weaving code into solutions, I thrive on the brink of innovation, exploring new technologies to create web and mobile experiences that resonate.
