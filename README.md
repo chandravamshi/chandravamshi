@@ -2,7 +2,7 @@
 <h3 align="center">FullStack Developer based in Germany</h3>
 
 
-- 👀 I’m interested in FullStack development.
+- 👀 I’m interested in FullStack development with DevOps.
 - 🌱 I’m currently learning Kubernetes, AWS
 -  I'm looking for the *Jobs* in field of FullStack (FrontEnd, BackEnd, DevOPs)
 - 💞️ I’m looking to collaborate on projects. 
