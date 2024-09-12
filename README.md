@@ -1,1 +1,1 @@
-I like building Frontend and Backend Systems (FullStack Developer) with latest technologies and DevOps.
+I like  building frontend and backend systems (FullStack) using the latest technologies and DevOps practices.
